@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - main function
- * description: 'print numbers of base 10'
- * return: always 0
+ * Description: 'print numbers of base 10'
+ * Return: always 0
  */
 int main(void)
 {
