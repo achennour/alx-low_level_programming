@@ -2,7 +2,7 @@
 /**
  * print_alphabet_x10 - prints the alphbet 10 times.
  *
- *Return: always 0 success
+ * Return: always 0 success
  */
  void print-alphabet_x10(void)
  {
@@ -15,6 +15,6 @@
 		{
 			_putchar(j);
 		}
-		_putchar('\n')
+		_putchar('\n');
 	}
  }
